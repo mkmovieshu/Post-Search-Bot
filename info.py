@@ -1,8 +1,8 @@
 API_ID       = 20990520
 API_HASH     = "714a70d62fc73bf8ec1a5d38adf8f198"
-BOT_TOKEN    = ""
-SESSION      = ""
+BOT_TOKEN    = "7946053792:AAFzYC4vzhB8Ghu0W01EoD-td6NdzfhpId8"
+SESSION      = "codeflix_bots""
 DATABASE_URI = ""
-LOG_CHANNEL  = 
-ADMIN        = 
-CHANNEL      = "codeflix_bots"
+LOG_CHANNEL  = -1003194401836
+ADMIN        = 8185007347
+CHANNEL      = "mk_filmywood"
